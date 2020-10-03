@@ -1,18 +1,10 @@
-echo ""
-echo ""
-echo ""
-echo "The script is  made by AD TECH"
-echo ""
-echo ""
-echo ""
+echo "selamat mengistall"
+
+echo "author ; andi"
+echo
 echo "subscribe  our channel"
-echo ""
-echo ""
-echo ""
-echo "Installtion process is started"
-echo ""
-echo ""
-echo ""
+echo "👇"
+echo "TERMUX TUTORIAL JAS"
 
 apt-get update -y                                                                                    apt install python -y
 apt install python2 -y                                                                               apt install ruby -y
@@ -44,16 +36,19 @@ apt install wcalc -y
 apt install openssl -y
 apt install bmon -y
 apt-get upgrade -y
+pip install request
+pip install mechanize
+pip install bs4
+pip install lolcat
 echo ""
 echo ""
 echo ""
 echo ""
-
-echo "All basic packages and tools is installed"
+echo "ALL TOLLS INSTALLER TERMUX"
 echo ""
 echo ""
-echo "Be a Hacker...."
+echo "NO HACKER"
 echo ""
 echo ""
-echo "Subscribe our Youtube channel and press Bell icon"
+echo "Subscribe"
 exit
